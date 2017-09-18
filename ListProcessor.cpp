@@ -8,7 +8,7 @@
 
 //Ryan Parziale
 //COSC2030
-//Lab1
+//Lab2
 //9-18-2017
 
 #include "LinkedList.h"
